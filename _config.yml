@@ -1,0 +1,14 @@
+layout_spectrum: 0.13232212467119098
+typography_spectrum: 0.6180967360269278
+color:
+  brandStrength: 0.15887270914390683
+  lightness: 0.40237506851553917
+  saturation: 0.8517457419075072
+  rhythmicContrast: 0.08396291336975992
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+name: dotdotdot
